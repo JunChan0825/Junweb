@@ -9,9 +9,9 @@ body{
 
 .hero1 {
 		  background: #2E8BC0;
-	background-image: url("https://i.imgur.com/47B654h.png");
-	background-position: 51.8% 10%;
-	background-size: 20%;
+	background-image: url("https://i.imgur.com/bROoMCt.png");
+	background-position: 50% 10%;
+	background-size: 15%;
 	background-blend-mode: normal;
 	background-repeat: no-repeat;
 	text-align: center;
@@ -252,8 +252,7 @@ body {
   padding: 250px 0;
   transition: all 1s;
   overflow-x: scroll;
-  -ms-scroll-snap-type: x mandatory;
-      scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
   scrollbar-color: var(--yellow) var(--midnight-green);
 }
 
